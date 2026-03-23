@@ -1,0 +1,26 @@
+Unity_2D_SnowBoarder_week1
+
+30. Game Design
+- 트랙을 따라서 움직이기
+- 앞뒤로 회전하기
+- 가속효과
+- 땅에 닿을 때 입자효과
+- Finish line 만들기
+- 충돌감지 기능 만들기
+
+31. Introducing Sprite Shapes
+- Sprite Shape Profile 생성
+- Texture, Sprites 설정
+- 기본 맵이될 슬로프 만들기
+
+32. Using Edge Colliders
+- Edge Collider 2D 사용
+- 공 추가
+- Offset 과 Height 등의 설정을 사용하여 공과 눈 부분의 디테일한 설정
+
+33. Cinemachine Follw Camera 
+- 여러 대의 카메라를 활용
+
+34. Setting Up  Our Character
+- 공 파일의 하위 파일로 캐릭터 상/하체 파일을 넣음
+- Capsule Colider와 Circle Colider를 보드와 머리에 설정함
