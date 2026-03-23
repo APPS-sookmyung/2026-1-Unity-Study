@@ -1,0 +1,23 @@
+Snow Sufer
+
+31. 스프라이트 세이프 사용하기
+Sprte Shape Controller 부분에 Profile에 넣어야지 적용됨!
+Sprites 이미지는 가장자리 꾸미기 느낌
+
+32. 엣지 콜라이더 사용하기
+Physics에서 Dynamic Sprite 사용하면 알아서 중력 받아서 작동함
+근데 Sprite Shape Contriller에 Height가 어디 있는지 모르겠음...
+Offeset값 조정하면 공이 공중에 떠서 안 가고 땅에 붙어서 가는 걸 조절할 수 있음
+Sprite Editor 사용하면 이미지 자르기 가능해서 매끈눈길 만들 수 있음
+
+33. 시네머신 카메라 팔로우
+검색을 하면서 하긴 했는데 정확한 정보인지 모르겟다
+1) Virtual Carmera -> Cinemachine Carmera로 바뀜
+2) Body -> Position Control로 바뀜
+(Body - Follow -> Position Control - Position Composer)
+3) Follow -> Tracking Target
+Screen X,Y 사용하여 카메라의 시점을 옮길 수 있음
+
+34. 캐릭터 설정
+Sprite Renderer, Circle Collider 2D를 없애고 이미지를 안에 넣고
+Capsule Collide 2D를 추가하면 힘이 작용받는 부분?을 만들 수 있음
